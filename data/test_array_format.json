@@ -1,0 +1,5 @@
+[
+  {"front": "API", "back": "Application Programming Interface"},
+  {"front": "REST", "back": "Representational State Transfer"},
+  {"front": "HTTP", "back": "HyperText Transfer Protocol"}
+]

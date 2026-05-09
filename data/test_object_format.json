@@ -1,0 +1,7 @@
+{
+  "cards": [
+    {"front": "SQL", "back": "Structured Query Language"},
+    {"front": "JSON", "back": "JavaScript Object Notation"},
+    {"front": "XML", "back": "eXtensible Markup Language"}
+  ]
+}
