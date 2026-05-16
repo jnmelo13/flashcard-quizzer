@@ -441,12 +441,12 @@ As you work through the project, consider these questions:
 
 At the end of your project, fill out these statistics:
 
-- **Total AI interactions:** ___
-- **Lines of AI-generated code used:** ___
-- **Lines of AI-generated code modified:** ___
-- **Most helpful AI interaction:** ___
-- **Most challenging AI interaction:** ___
-- **Biggest lesson learned:** ___
+- **Total AI interactions:** 15
+- **Lines of AI-generated code used:** ~1,392
+- **Lines of AI-generated code modified:** ~140
+- **Most helpful AI interaction:** Quiz Engine implementation with Strategy and Factory patterns
+- **Most challenging AI interaction:** CLI architectural refactoring to break down monolithic main.py
+- **Biggest lesson learned:** AI excels at implementing specific features but needs human guidance for architectural decisions
 
 ---
 
