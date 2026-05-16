@@ -1,0 +1,7 @@
+{
+  "cards": [
+    {"front": "API", "back": "Application Programming Interface"},
+    {"front": "URL", "back": "Uniform Resource Locator"},
+    {"front": "GUI", "back": "Graphical User Interface"}
+  ]
+}

@@ -1,4 +1,0 @@
-labsuser@vscode:~/flashcard-quizzer$ python -m venv venv
-Error: Command '['/voc/work/flashcard-quizzer/venv/bin/python', '-m', 'ensurepip', '--upgrade', '--default-pip']' returned non-zero exit status 1.
-labsuser@vscode:~/flashcard-quizzer$ source venv/bin/activate
-bash: venv/bin/activate: No such file or directory

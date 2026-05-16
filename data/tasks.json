@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Learn about design patterns",
+      "priority": "medium",
+      "completed": false,
+      "created_at": "2026-05-09T21:19:57.020536"
+    },
+    {
+      "id": 2,
+      "description": "Implement new features with AI assistance",
+      "priority": "medium",
+      "completed": false,
+      "created_at": "2026-05-09T21:19:57.020547"
+    },
+    {
+      "id": 3,
+      "description": "Write comprehensive tests",
+      "priority": "medium",
+      "completed": false,
+      "created_at": "2026-05-09T21:19:57.020549"
+    }
+  ],
+  "next_id": 4
+}

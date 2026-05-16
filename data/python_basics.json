@@ -1,0 +1,12 @@
+[
+  {"front": "WSGI", "back": "Web Server Gateway Interface"},
+  {"front": "ASGI", "back": "Asynchronous Server Gateway Interface"},
+  {"front": "PEP", "back": "Python Enhancement Proposal"},
+  {"front": "PyPI", "back": "Python Package Index"},
+  {"front": "IDLE", "back": "Integrated Development and Learning Environment"},
+  {"front": "GIL", "back": "Global Interpreter Lock"},
+  {"front": "ORM", "back": "Object Relational Mapping"},
+  {"front": "REPL", "back": "Read Eval Print Loop"},
+  {"front": "CGI", "back": "Common Gateway Interface"},
+  {"front": "YAML", "back": "YAML Ain't Markup Language"}
+]
